@@ -3,8 +3,14 @@
 # Directories
 path = Documents
 path = Development
+path = Pictures
 
 # files
+
+# ignores
+ignore = Name .DS_Store
+ignore = Name *.log
+ignore = Name *.sock
 
 ## Miscellaneous settings
 rshargs = -C
