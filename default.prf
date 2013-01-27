@@ -1,0 +1,8 @@
+## Unison preferences file
+
+## Roots of the synchronization
+root = /Users/vlandgraf/
+root = ssh://bananas/
+
+## Include common settings
+include common
