@@ -5,6 +5,8 @@ path = Documents
 path = Development
 path = Pictures
 path = Applications
+path = Library/Fonts
+path = Library/FontCollections
 
 # files
 
