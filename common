@@ -9,6 +9,7 @@ path = Library/Fonts
 path = Library/FontCollections
 
 # files
+path = Library/Preferences/com.mizage.divvy.plist
 
 # ignores
 ignore = Name .DS_Store
