@@ -8,9 +8,18 @@ path = Applications
 path = Library/Fonts
 path = Library/FontCollections
 path = doo
+path = Library/Application Support/TextMate/Bundles
 
 # files
 path = Library/Preferences/com.mizage.divvy.plist
+path = .ssh/config
+path = .ssh/authorized_keys
+path = .ssh/known_hosts
+path = .gitconfig
+path = .gitignore_global
+path = .npmrc
+path = .profile
+path = .vimrc
 
 # ignores
 ignore = Name .DS_Store
