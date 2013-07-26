@@ -9,6 +9,7 @@ path = Library/Fonts
 path = Library/FontCollections
 path = doo
 path = Library/Application Support/TextMate/Bundles
+path = .teamocil
 
 # files
 path = Library/Preferences/com.mizage.divvy.plist
